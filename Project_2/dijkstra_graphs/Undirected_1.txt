@@ -1,0 +1,9 @@
+6 7 U
+A B 3
+A C 1
+B D 4
+C D 2
+C E 5
+D F 1
+E F 3
+A
